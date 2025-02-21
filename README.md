@@ -101,7 +101,7 @@ client = StreamingClient(
 ! 滥用行为将触发风控机制（详见LICENSE）
 ```
 
-[![Star History Chart]([https://api.star-history.com/svg?repos=deepseek-ai/R1-FullVersion&type=Date)](https://www.volcengine.com/experience/ark](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U))
+[[![Star History Chart]([https://api.star-history.com/svg?repos=deepseek-ai/R1-FullVersion&type=Date)](https://www.volcengine.com/experience/ark](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U))](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U)
 
 ---
 **让每个开发者都能享受顶尖AI算力**  
