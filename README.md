@@ -6,11 +6,11 @@ https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc
 ```markdown
 # 🚀 DeepSeek R1 671B 满血版 | 开发者专属算力福利计划
 
-[![API Status](https://img.shields.io/endpoint?url=https://api.deepseek.com/status)]([https://www.volcengine.com/experience/ark](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U))
-[![Daily Tokens](https://img.shields.io/badge/每日配额-5,000,000_tokens-blueviolet)]([https://www.volcengine.com/experience/ark](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U))
+[[![API Status](https://img.shields.io/endpoint?url=https://api.deepseek.com/status)]([https://www.volcengine.com/experience/ark](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U))](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U)
+[[![Daily Tokens](https://img.shields.io/badge/每日配额-5,000,000_tokens-blueviolet)]([https://www.volcengine.com/experience/ark](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U))](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U)
 
 **2025年2月28日前，开发者可免费领取每日500万tokens，累计最高30亿tokens！**  
-👉 [立即获取开发者资格](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U)
+👉 [立即获取开发者资格]([https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=F4YX5K5U))
 
 ## 🌟 核心优势
 | 特性                | DeepSeek R1 671B                     | 其他平台典型表现       |
